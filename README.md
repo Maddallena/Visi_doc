@@ -98,5 +98,5 @@ Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planowa
   - brak możliwości rozwinięcia się w pracy nad dużym projektem
   
   
-# Wykres Gantta
+## Wykres Gantta
 ![wykres Gantta](https://github.com/Maddallena/Visi_doc/blob/main/wykres_gantta.jpg)
