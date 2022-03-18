@@ -100,3 +100,21 @@ Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planowa
   
 ## Wykres Gantta
 ![wykres Gantta](https://github.com/Maddallena/Visi_doc/blob/main/wykres_gantta.jpg)
+
+
+#*zajęcia 18.03*
+
+# Ćwiczenia 4
+
+## Schematy blokowe:
+
+### Rejestracja użytkownika:
+![rejestracja](https://github.com/Maddallena/Visi_doc/blob/main/rejestracja.drawio.svg)
+
+
+### Logowanie:
+![logowanie](https://github.com/Maddallena/Visi_doc/blob/main/logowanie.drawio.svg)
+
+
+### Zmiana hasła:
+![haslo](https://github.com/Maddallena/Visi_doc/blob/main/zmiana_hasla.drawio.svg)
