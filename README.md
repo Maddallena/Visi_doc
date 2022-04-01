@@ -26,9 +26,8 @@ Co tydzień w poniedziałek jest spotkanie, na którym kontrolujemy postęp i us
 
 
 
-#*zajęcia 04.03*
-
-
+*zajęcia 04.03*
+# Ćwiczenia 2
 # Nagłówek Epic 
 
 Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planować swoje projekty rozbijając je na zadania i przypisując konkretne osoby i daty.
@@ -66,7 +65,7 @@ Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planowa
  - Połączyć front i back 40
  
 
-#*zajęcia 11.03*
+*zajęcia 11.03*
 # Ćwiczenia 3
 ## Analiza SWOT (dla opisu przypadku)
 
@@ -102,8 +101,7 @@ Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planowa
 ![wykres Gantta](https://github.com/Maddallena/Visi_doc/blob/main/wykres_gantta.jpg)
 
 
-#*zajęcia 18.03*
-
+*zajęcia 18.03*
 # Ćwiczenia 4
 
 ## Schematy blokowe:
@@ -156,8 +154,7 @@ Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planowa
     -   ustalenie czasu poświęconego przez Maćka na każdy projekt
 
 
-#*zajęcia 25.03*
-
+*zajęcia 25.03*
 # Ćwiczenia 5
 
 ## Rejestr udziałowców
@@ -292,4 +289,41 @@ Aplikacja webowa tablicy kanban, w której zalogowani użytkownicy mogą planowa
 </tr>
 </tbody>
 </table>
+
+*zajęcia 25.03*
+# Ćwiczenia 6
+
+## DoD (Definition of Done)
+
+> Dla portalu internetowego
+-   Test ortografii
+-   Test responsywności
+-   Test czytelności
+-   Czy wyświetla się w różnych przeglądarkach i systemach
+-   Wszystkie testy jednostkowe zaliczone
+-   Zaktualizowano rejestr produktów
+-   Projekt wdrożony na środowisku testowym identycznym z platformą produkcyjną
+-   Przeprowadzono testy na urządzeniach/przeglądarkach wymienionych w dokumentacji
+-   Przeszły testy kompatybilności wstecznej
+-   Testy wydajności przeszły pomyślnie
+-   Naprawiono wszystkie błędy
+-   Sprint oznaczony jako gotowy do wdrożenia produkcyjnego przez Właściciela Produktu
+
+
+     
+## Kryteria akceptacji
+
+>     indywidualne kryteria która musi spełnić każda poszczególna historyjka
+
+Dla przesyłania plików :: Jako użytkownik chcę przesłać zdjęcie na serwer
+
+-   możliwość drag'n'drop obrazka z przeglądarki plików do przeglądarki internetowej
+-   opcja **Wybierz plik** pozwalająca przeszukiwać system
+-   sprawdzenie typu pliku
+-   poinformowanie użytkownika o niepoprawnym formacie pliku w razie wybrania innego typu niż obraz
+-   możliwość pobrania obrazu z serwera
+-   możliwość wyświetlenia obrazu na serwerze jako miniatura lub cały obraz
+-   ustanowienie limitu wielkości pliku do xMB
+
+
 
