@@ -332,6 +332,13 @@ Dla przesyłania plików :: Jako użytkownik chcę przesłać zdjęcie na serwer
 ## Hashe
 
 1. Obrazek stworzony w paincie:
+
+![bmp](https://github.com/Maddallena/Visi_doc/blob/main/kot_postrach_wszystkich_dzieci.bmp)
+
 2. Hash SHA256: 9489ECCC9541BA0BDA7792D3535EEC979B778185D5C66277D9BDA3BEDDB2AFAF
+
 3. Obrazek po zmianie jednego bitu:
-4. Hash SHA256 zmienionego pliku: 57FF0DD1793A89F7400C5642F222FE1F30EDEB6DCF27E2A0647CFED303D2A0B6
+
+![bmp](https://github.com/Maddallena/Visi_doc/blob/main/zmieniony_kot.bmp)
+
+5. Hash SHA256 zmienionego pliku: 57FF0DD1793A89F7400C5642F222FE1F30EDEB6DCF27E2A0647CFED303D2A0B6
