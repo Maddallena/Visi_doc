@@ -326,6 +326,15 @@ Dla przesyłania plików :: Jako użytkownik chcę przesłać zdjęcie na serwer
 -   ustanowienie limitu wielkości pliku do xMB
 
 
+# Ćwiczenia 7
+
+## Burn-up chart
+![Burn-up](https://github.com/Maddallena/Visi_doc/blob/main/burn-up.jpg)
+
+## Burn-down chart
+![Burn-down](https://github.com/Maddallena/Visi_doc/blob/main/burn-down.jpg)
+
+
 *zajęcia 20.05*
 # Ćwiczenia 11
 
